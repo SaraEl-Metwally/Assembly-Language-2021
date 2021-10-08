@@ -117,7 +117,7 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
                   <ul>  
                      <li> Assembly Language Syntax for Simplified Directive Statements. </li>
                      <li> Assembly Language Data Types. </li>
-                     <li> Assembly Language EQU Directive </li>
+                     <li> Assembly Language EQU Directive. </li>
                  </ul>
               </td>
               <td> 
@@ -146,17 +146,18 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
             <td> 8 </td>
             <td> 
                   <ul>  
-                     <li> Local search Algorithms. </li>
-                     <li> Hill climbing local search. </li>
-                     <li> Genetic Algorithm. </li>
+                     <li> Data Transfer Instruction MOV. </li>
+                     <li> Data Transfer Instructions MOVSX and MOVZX. </li>
+                     <li> Data Transfer Instruction XCHG. </li>
+                     <li> Data Transfer Instruction LEA. </li>
+                     <li> Arithmetic Instructions: INC/DEC,ADD/SUB, DIV/MUL. </li>
+                     <li> A general introduction to a complete set of 8086 Instructions. </li>
                  </ul>
               </td>
               <td> 
               <ul>
                 <li> <a href="8.pdf"> <b> Lecture 8 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=kmeZURf9U98"> <b> Lecture 8 Video Part 1 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=-wf6sUYHc_g"> <b> Lecture 8 Video Part 2 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=ynLwzzKlBNE"> <b> Lecture 8 Video Part 3 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=NgteTYn7mKI"> <b> Lecture 8 Video </b></a> </li>
                 </ul>
             </td>
             </tr>
