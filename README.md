@@ -42,7 +42,7 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
              </td>
              <td> 
               <ul>
-                <li> <a href="2.pdf"> <b> Lecture 2 </b></a> </li>
+                <li> <a href="2_3.pdf"> <b> Lecture 2 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=L_3Y5NAiuVQ"> <b> Lecture 2 Video </b></a> </li>
               </ul>
              </td>
@@ -68,6 +68,7 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
               </td>
               <td> 
               <ul>
+                <li> <a href="2_3.pdf"> <b> Lecture 2 </b></a> </li>
                 <li> <a href="3.pdf"> <b> Lecture 3 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=VHLHOnm_sVE"> <b> Lecture 3 Video </b></a> </li>
                 </ul>
