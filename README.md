@@ -39,7 +39,6 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
                      <li> Types of executable programs and program loader. </li>
                      <li> Memory Stack. </li>
                      <li> Instruction Execution and Addressing. </li>
-                     
                </ul>
              </td>
              <td> 
