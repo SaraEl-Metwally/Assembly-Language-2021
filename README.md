@@ -77,14 +77,19 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
             <td> 4 </td>
             <td> 
                   <ul>  
-                     <li> Problem formulation. </li>
-                     <li> Search strategies. </li>
+                     <li> INT instruction. </li>
+                     <li> INT 21H, AH=2AH to Display the Current Date. </li>
+                     <li> INT 21H, AH=2CH to Display the Current Time. </li>
+                     <li> INT 21H, AH=09H to Display on the Screen. </li>
+                     <li> INT 16H, AH=10H to Accept characters from a keyboard . </li>
+                     <li> Using PTR operator. </li>
+                     <li> Introduction to GUI Assemblers'IDE. </li>
                  </ul>
               </td>
               <td> 
               <ul>
                 <li> <a href="4.pdf"> <b> Lecture 4 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=VMtR9cF7tDQ"> <b> Lecture 4 Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=hBcWMgzr41o"> <b> Lecture 4 Video </b></a> </li>
                 </ul>
             </td>
             </tr>
