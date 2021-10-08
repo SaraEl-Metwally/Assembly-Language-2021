@@ -38,7 +38,6 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
                      <li> I/O Interface. </li>
                      <li> Types of executable programs and program loader. </li>
                      <li> Memory Stack. </li>
-                     <li> Instruction Execution and Addressing. </li>
                </ul>
              </td>
              <td> 
@@ -52,13 +51,25 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
             <td> 3 </td>
             <td> 
                   <ul>  
-                     <li> Agents Types. </li>
+                     <li> Memory Stack. </li>
+                     <li> Instruction Execution and Addressing. </li>
+                     <li> Introduction to a DEBUG Program. </li>
+                     <li> DEBUG Commands. </li>
+                     <li> Working with DEBUG Tool. </li>
+                     <li> DEBUG D command. </li>
+                     <li> Explore BIOS Data Area with DEBUG D command. </li>
+                     <li> Explore BIOS ROM Date/copyright with DEBUG D command. </li>
+                     <li> DEBUG E command. </li>
+                     <li> DEBUG R command. </li>
+                     <li> DEBUG T command. </li>
+                     <li> DEBUG A command. </li>
+                     <li> DEBUG U command. </li>
                  </ul>
               </td>
               <td> 
               <ul>
                 <li> <a href="3.pdf"> <b> Lecture 3 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=bva3ymDtHHo"> <b> Lecture 3 Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=VHLHOnm_sVE"> <b> Lecture 3 Video </b></a> </li>
                 </ul>
             </td>
              </tr>
