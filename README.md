@@ -97,15 +97,17 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
             <td> 5 </td>
             <td> 
                   <ul>  
-                     <li> Un-informed Search strategies. </li>  
-                     <li> Breadth-first search. </li>
-                     <li> Uniform-cost search. </li>
+                     <li> Assembly Language Syntax for Comments. </li>  
+                     <li> Assembly Language Reserved Words. </li>
+                     <li> Assembly Language Syntax for Identifiers. </li>
+                     <li> Assembly Language Syntax for Instruction Statements. </li>
+                     <li> Assembly Language Syntax for Directive Statements. </li>
                  </ul>
               </td>
               <td> 
               <ul>
                 <li> <a href="5_6.pdf"> <b> Lecture 5 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=PuYAUGPQaSQ"> <b> Lecture 5 Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=Qu3JPnwZvRM"> <b> Lecture 5 Video </b></a> </li>
                 </ul>
             </td>
             </tr>
@@ -113,17 +115,15 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
             <td> 6 </td>
             <td> 
                   <ul>  
-                     <li> Uniform-cost search. </li>
-                     <li> Depth-first search. </li>
-                     <li> Depth-limited search. </li>
-                     <li> Iterative deepening search. </li>
-                     <li> Bidirectional search. </li>
+                     <li> Assembly Language Syntax for Simplified Directive Statements. </li>
+                     <li> Assembly Language Data Types. </li>
+                     <li> Assembly Language EQU Directive </li>
                  </ul>
               </td>
               <td> 
               <ul>
                 <li> <a href="5_6.pdf"> <b> Lecture 6 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=INazZ1u1iSQ"> <b> Lecture 6 Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=DbvMpab8J_s"> <b> Lecture 6 Video </b></a> </li>
                 </ul>
             </td>
             </tr>
@@ -131,18 +131,14 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
             <td> 7 </td>
             <td> 
                   <ul>  
-                     <li> Informed Search Strategies. </li>
-                     <li> Heuristics. </li>
-                     <li> Best first search Algorithms. </li>
-                     <li> Greedy Search. </li>
-                     <li> A* Search. </li>
-                     <li> Optimality of A* Search Algorithm. </li>
+                     <li> What is Compiler? Difference between Compiler, Assembler, Linker and Loader? </li>
+                     <li> How Assemblers interpret your code? </li>
                  </ul>
               </td>
               <td> 
               <ul>
                 <li> <a href="7.pdf"> <b> Lecture 7 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=T66XeWopL4k"> <b> Lecture 7 Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=lYv-wWRa3oI"> <b> Lecture 7 Video </b></a> </li>
                 </ul>
             </td>
             </tr>
