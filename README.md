@@ -157,7 +157,8 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
               <td> 
               <ul>
                 <li> <a href="8.pdf"> <b> Lecture 8 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=NgteTYn7mKI"> <b> Lecture 8 Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=NgteTYn7mKI"> <b> Lecture 8 Video Part 1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=W_QVv4_zDDg"> <b> Lecture 8 Video Part 2 </b></a> </li>
                 </ul>
             </td>
             </tr>
@@ -165,17 +166,23 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
             <td> 9 </td>
             <td> 
                   <ul>  
-                     <li> Constraint Satisfaction Problems. </li>
-                     <li> Backtracking for CSP. </li>
-                     <li> Improving backtracking efficiency. </li>
+                     <li> The story behind INT instruction. </li>
+                     <li> Register Addressing Mode. </li>
+                     <li> Immediate Addressing Mode. </li>
+                     <li> Direct Memory Addressing Mode. </li>
+                     <li> Direct-Offset Memory Addressing Mode. </li>
+                     <li> Indirect Memory Addressing Mode. </li>
+                     <li> Base Displacement Addressing Mode. </li>
+                     <li> Base-Index Addressing Mode. </li>
+                     <li> Base-Index with Displacement Addressing Mode. </li>
+                     <li> Segment Override Prefix. </li>
+                     <li> NEAR and FAR addresses </li>
                  </ul>
               </td>
               <td> 
               <ul>
                 <li> <a href="9.pdf"> <b> Lecture 9 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=5C4tMD7f3VI"> <b> Lecture 9 Video Part 1 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=g5_0uXb843M"> <b> Lecture 9 Video Part 2 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=r2UQf4Er1ng"> <b> Lecture 9 Video Part 3 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=trz4HtMqui4"> <b> Lecture 9 Video </b></a> </li>
                 </ul>
             </td>
             </tr>
@@ -183,22 +190,51 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
             <td> 10 </td>
             <td> 
                   <ul>  
-                     <li> Needs for Machine Learning. </li>
-                     <li> What is Machine Learning. </li>
-                     <li> Machine Learning Definitions. </li>
-                     <li> Machine Learning Process. </li>
-                     <li> Types of Machine Learning. </li>
-                     <li> Linear Regression. </li>
-                     <li> Simple Demo. </li>
+                     <li> SHORT, NEAR and FAR addresses. </li>
+                     <li> Backward and Forward JMP. </li>
+                     <li> LOOP,LOOPE,LOOPZ,LOOPNE,LOOPNZ. </li>
+                     <li> CMP instruction. </li>
+                     <li> Conditional JUMP instructions (signed/unsigned Data). </li>
                  </ul>
               </td>
               <td> 
               <ul>
                 <li> <a href="10.pdf"> <b> Lecture 10 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=67yA69HzqLk"> <b> Lecture 10 Video Part 1 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=DPpFPVynIK4"> <b> Lecture 10 Video Part 2 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=v8Y18g74BG0"> <b> Lecture 10 Video Part 3 </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=D0-2BT0bKsE"> <b> Lecture 10 Video Part 4 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=_A0ozTwiI-Y"> <b> Lecture 10 Video </b></a> </li>
+                </ul>
+            </td>
+            </tr>
+               <tr>
+            <td> 11 </td>
+            <td> 
+                  <ul>  
+                     <li> Call instruction. </li>
+                     <li> Passing Parameters by Values Vs. References. </li>
+                     <li> Boolean Operations (self study). </li>
+                 </ul>
+              </td>
+              <td> 
+              <ul>
+                <li> <a href="11.pdf"> <b> Lecture 11 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=MiVRFDheqS8"> <b> Lecture 11 Video </b></a> </li>
+                </ul>
+            </td>
+            </tr>
+                 <tr>
+            <td> 12 </td>
+            <td> 
+                  <ul>  
+                     <li> Binary Representation of Assembly Data Movement Instructions in 16-bit mode. </li>
+                     <li> Opcode bytes in 16-bit Instruction mode. </li>
+                     <li> MOD-REG-R/M bytes in 16-bit Instruction mode. </li>
+                     <li> Displacement bytes in 16-bit Instruction mode. </li>
+                     <li> Immediate bytes in 16-bit Instruction mode. </li>
+                 </ul>
+              </td>
+              <td> 
+              <ul>
+                <li> <a href="12.pdf"> <b> Lecture 12 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=b7hOZDbkdXg"> <b> Lecture 12 Video </b></a> </li>
                 </ul>
             </td>
             </tr>
