@@ -240,3 +240,8 @@ Assembly Language course (CS-214P) for 3rd year students, Computer Science Depar
             </td>
             </tr>
   </table>
+  
+  ### References:
+  1. IBM PC Assembly Language and Programming (Fifth Edition) by Peter Abel, <a href="https://drive.google.com/file/d/1X7mLgTFXMBNrPTklCD0lQ3535UKqs0Ly/view?usp=sharing"> <b> Link of the scanned book in the FCI Library </b></a>
+  2. The Intel Microprocessors (8th Edition) 8th Edition by Barry B. Brey, <a href="https://www.amazon.com/Intel-Microprocessors-8th-Barry-Brey/dp/0135026458"> <b> Link of the book on amazon </b></a>
+  
